@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-05-23T19:12:25.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="OWno1ZXnVEBJloo8E6ce" version="24.4.0" type="device">
+  <diagram name="Página-1" id="EQT6mkqfsKpfmT6XrE-N">
+    <mxGraphModel dx="996" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-8" value="Recepción de materias primas" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-9" value="Almacenamiento&lt;div&gt;&amp;nbsp;de&amp;nbsp;&lt;/div&gt;&lt;div&gt;materias primas&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-10" value="Recepción de materias primas" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-11" value="Almacenamiento&lt;div&gt;&amp;nbsp;de&amp;nbsp;&lt;/div&gt;&lt;div&gt;productos finales&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-12" value="El producto final&amp;nbsp;&lt;div&gt;se empaqueta y&amp;nbsp;&lt;div&gt;se le agrega la etiqueta correspondiente&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-13" value="Control de&amp;nbsp;&lt;div&gt;calidad&amp;nbsp;&lt;/div&gt;&lt;div&gt;del producto final&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-14" value="Transformacion&lt;div&gt;&amp;nbsp;de&lt;/div&gt;&lt;div&gt;&amp;nbsp;materias prima al producto final&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

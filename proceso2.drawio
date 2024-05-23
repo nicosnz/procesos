@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-05-23T20:19:07.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="MpTzJa8DgNCvzvggLb2D" version="24.4.0" type="device">
+  <diagram name="Página-1" id="EQT6mkqfsKpfmT6XrE-N">
+    <mxGraphModel dx="996" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-15" value="Recepción de solicitudes de atención" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-16" value="Seguimiento y cierre: asegurarse que el cliente está satisfecho" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-17" value="Resolución del problema: brindar&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;asesoramiento, ofrecer soluciones&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-18" value="Análisis y&amp;nbsp;&lt;div&gt;evaluación del problema&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-19" value="Registro de la información importante&amp;nbsp;&lt;div&gt;de la solicitud del cliente&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

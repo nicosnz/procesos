@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2024-05-23T20:48:23.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="OeCA-Hp_rQJbN3EeNXVu" version="24.4.0" type="device">
+  <diagram name="Página-1" id="EQT6mkqfsKpfmT6XrE-N">
+    <mxGraphModel dx="996" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-15" value="Investigación de mercado" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-16" value="Se promociona el contenido" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-17" value="Contenido&amp;nbsp;&lt;div&gt;optimizado con SEO&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-18" value="Creación de contenido de calidad&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-19" value="Desarrollo de estrategia de marketing&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-21" value="Se usan herramientas para email marketing, y mensajes automaticos" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-22" value="&lt;div&gt;Estrategias de captación de Leads&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="40" width="123" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-23" value="Actualización y análisis de informes" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

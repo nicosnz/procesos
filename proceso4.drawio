@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2024-05-23T20:41:12.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="M337IX5RjjA5dpPwKnAK" version="24.4.0" type="device">
+  <diagram name="Página-1" id="EQT6mkqfsKpfmT6XrE-N">
+    <mxGraphModel dx="996" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-15" value="Registro y Clasificación&amp;nbsp;&lt;div&gt;de los productos&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-16" value="Control de caducidad de los productos" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-17" value="Reabastecimiento de inventario&amp;nbsp;&lt;div&gt;cuando alcanzan un pedido minimo&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-18" value="Analisis&amp;nbsp;&lt;div&gt;de demanda de&amp;nbsp;&lt;div&gt;inventario&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-19" value="Actualización de productos,&amp;nbsp;&lt;div&gt;a medida que se reciben nuevos&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-21" value="Analisis de&lt;div&gt;&amp;nbsp;obsolescencia para&amp;nbsp;&lt;div&gt;eliminar&amp;nbsp;&lt;/div&gt;&lt;div&gt;productos obsoletos que no tienen demanda&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-22" value="&lt;div&gt;Realización de inventarios fisicos&amp;nbsp;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="40" width="123" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sRvNxMIeEX6gMQWpNpkh-23" value="Analisis de&lt;div&gt;&amp;nbsp;obsolescencia para&amp;nbsp;&lt;div&gt;eliminar&amp;nbsp;&lt;/div&gt;&lt;div&gt;productos obsoletos que no tienen demanda&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
